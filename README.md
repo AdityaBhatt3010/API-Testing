@@ -1,10 +1,7 @@
 # API Testing Documentation
 
 ## Overview
-This document provides an overview of API testing performed using Postman. It includes various test cases with relevant screenshots.
-
-### Introduction
-This API testing documentation demonstrates various test cases executed in Postman, covering authentication, data retrieval, order management, and response validation.
+This document outlines the API testing process conducted using Postman. It includes a structured set of test cases to evaluate the API’s functionality, authentication, and response handling.
 
 ## Postman Collection
 The API testing was conducted using the Postman collection found in `API_Testing.postman_collection.json`. Import this collection into Postman to replicate the tests.
